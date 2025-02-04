@@ -1,0 +1,9 @@
+body {
+    background-color: skyblue;
+}
+
+// assets/styles/app.scss
+$primary: #ff0000; // Change la couleur principale
+
+@import "custom";
+@import "~bootstrap/scss/bootstrap";
